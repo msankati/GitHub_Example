@@ -24,8 +24,9 @@ namespace GITHUBExample.Controllers
         }
 
         public void Returnss()
-        { 
-        
+        {
+
+            string str = "my message";
         }
     }
 }
