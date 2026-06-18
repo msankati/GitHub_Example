@@ -1,0 +1,6 @@
+@GITHUBExample_HostAddress = http://localhost:5250
+
+GET {{GITHUBExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,19 @@
+# .NET build output
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# User-specific files
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
